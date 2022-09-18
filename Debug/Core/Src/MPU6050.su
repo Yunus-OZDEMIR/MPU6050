@@ -1,0 +1,6 @@
+../Core/Src/MPU6050.c:29:6:MPU6050_Init	24	static
+../Core/Src/MPU6050.c:39:6:GyroRead	24	static
+../Core/Src/MPU6050.c:54:6:AcceRead	24	static
+../Core/Src/MPU6050.c:66:6:TempRead	24	static
+../Core/Src/MPU6050.c:73:6:Temperature	8	static
+../Core/Src/MPU6050.c:78:6:ComTest	16	static
